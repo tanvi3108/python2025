@@ -32,5 +32,9 @@ print(type(abc))
 print(type(xyz))
 print(type(y))
 
+#EXPRESSION EXECUTION rules
 
+A,B=2,3
+Txt="@"
+print(2*Txt*3)
 
